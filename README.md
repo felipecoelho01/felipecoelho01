@@ -12,7 +12,9 @@
 ##
 
 #### Contact Me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipevazcoelho/)](https://www.linkedin.com/in/felipevazcoelho/) [![Outlook](https://img.shields.io/badge/felipecoelho12@outlook.com.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:felipecoelho12@outlook.com.br)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipevazcoelho/)](https://www.linkedin.com/in/felipevazcoelho/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-felipevaz.vercel.app/)
+[![Outlook](https://img.shields.io/badge/felipecoelho12@outlook.com.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:felipecoelho12@outlook.com.br)
 
 ##
 
