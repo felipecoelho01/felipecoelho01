@@ -10,6 +10,10 @@
 - 💡 I'm always eager to learn new things and grow professionally.
 
 ##
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipecoelho01&theme=midnight-purple&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecoelho01&layout=compact&langs_count=6&theme=midnight-purple"/>
+</div>
 
 #### Contact Me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipevazcoelho/)](https://www.linkedin.com/in/felipevazcoelho/)
