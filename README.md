@@ -3,7 +3,7 @@
 > "Success is going from failure to failure without losing enthusiasm." — Winston Churchill
 
 ## I'm Felipe Vaz
-(C# | .NET | Angular | PHP | Javascript | HTML | CSS | Python) 🚀
+(C# | .NET | Angular | JavaScript | TypeScript | HTML | CSS ) 🚀
 - 👨‍💻 **Full Stack Developer**.
 - 🎓 I have a Systems Analysis and Development degree and am now studying Software Engineering.
 - 🌐 Passionate about tech.
